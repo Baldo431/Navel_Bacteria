@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(178, 178, 178, 0.46);
+}
+
+.jumbotron{
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+#container1{
+    background-color: white;
+}
+
+#container2{
+    background-color: white;
+}
+
+.navbar-nav{
+    margin-top: 10px;
+    height: 30px;
+}
