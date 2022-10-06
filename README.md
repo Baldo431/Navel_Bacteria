@@ -12,7 +12,10 @@ Those who participated in the study should be able to visit a website and select
 </br>
 
 ## Key Technologies Used
-
 - HTML 
 - CSS
 - Plotly
+
+<br>
+
+Click [here](https://baldo431.github.io/Navel_Bacteria/) to see the website deployed in GitHub Pages.
